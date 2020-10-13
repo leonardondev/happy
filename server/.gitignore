@@ -1,4 +1,7 @@
 node_modules
 yarn.lock
 *.sqlite
-
+uploads/*.jpg
+uploads/*.jpeg
+uploads/*.png
+uploads/*.gif
